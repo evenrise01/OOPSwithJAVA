@@ -5,7 +5,7 @@ public class Myclass {
     public static void main(String[] args){
 
         int myInt;
-        double myDouble = 9.85 //Automatic casting: double to int
+        double myDouble = 9.85; //Automatic casting: double to int
         
         
         myInt = (int)myDouble;
