@@ -1,3 +1,5 @@
+//Write a program for widening casting
+
 public class Myclass {
 
     public static void main(String[] args){
